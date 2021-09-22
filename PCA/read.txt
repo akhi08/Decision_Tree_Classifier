@@ -1,1 +1,7 @@
+PCA , Eigen Values , Eigen Vectors
+
+Matrix Multiplication
+:-when we take a dot product of a matrix and a vector , the resulting vector is a rotated and scaled version of the original one.Basically vectors and data points are similar .And data points can be transformed by matrix multiplication.
+
+
 
